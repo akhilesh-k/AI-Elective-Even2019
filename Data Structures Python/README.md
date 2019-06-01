@@ -1,5 +1,5 @@
 # Artificial Intelligence Elective Course
-## Even Semester, 2019
+## Odd Semester, 2019
 ### Data Structures Resources
 Welcome to the resources repository for Data Structures using Python. This repository mainly aims at implementation of various Data Structures using Python which will be required in better understanding of course.
 
