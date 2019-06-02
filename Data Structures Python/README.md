@@ -24,8 +24,8 @@ Welcome to the resources repository for Data Structures using Python. This repos
 
 # Stack
 
-* [Stack Concept](https://github.com/OmkarPathak/Data-Structures-using-Python/tree/master/Stack/Stack.ipynb)
-    * [Stack implementation](https://github.com/OmkarPathak/Data-Structures-using-Python/tree/master/Stack/Stack.py)
+* [Stack Concept](/Stack/Stack.ipynb)
+    * [Stack implementation](/Stack/Stack.py)
     * [Infix to Postfix conversion](Stack/P01_InfixToPostfix.py)
     * [Balanced Parenthesis](Stack/P02_BalancedParenthesis.py)
     * [Decimal to Binary conversion using Stack](Stack/P03_DecimalToBinary.py)
@@ -33,7 +33,7 @@ Welcome to the resources repository for Data Structures using Python. This repos
 
 # Queue
 
-* [Queue Concept](https://github.com/OmkarPathak/Data-Structures-using-Python/tree/master/Queue/Queue.ipynb)
+* [Queue Concept](/Queue/Queue.ipynb)
     * [Queue implementation](Queue/Queue.py)
     * [Circular Queue](Queue/CicularQueue.py)
     * [Double Ended Queue](Queue/Deque.py)
@@ -52,7 +52,7 @@ Welcome to the resources repository for Data Structures using Python. This repos
 
 # Graph
 
-* [Graph Concept](https://github.com/OmkarPathak/Data-Structures-using-Python/tree/master/Graph/Graph.ipynb)
+* [Graph Concept](/Graph/Graph.ipynb)
     * [Graph implementation](Graph/Graph.py)
     * [Breadth First Search Traversal](Graph/P01_BreadthFirstSearch.py)
     * [Depth First Search Traversal](Graph/P02_DepthFirstSearch.py)
